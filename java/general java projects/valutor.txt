@@ -1,0 +1,14 @@
+SEK 1.000 svenska kronor
+AUD 5.835 australiensiska dollar
+CAD 6.855 kanadensiska dollar
+CHF 6.096 schweiziska franc
+CNY 0.990 kinesiska yuan
+DKR 1.272 danska kronor
+EUR 9.473 euro
+GBP 13.877 britt. pund
+INR 0.177 indiska rupier
+JPY 0.069 japanska yen
+MXN 0.750 mexikanska pesos
+NKR 1.183 norska kronor
+USD 7.991 amerikanska dollar
+ZAR 1.260 sydafrikansk randBTC 1.337 bitcoin
